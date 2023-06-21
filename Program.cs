@@ -10,8 +10,9 @@ namespace ProjetEnumeration
     {
         static void Main(string[] args)
         {
-            Test1();
+            //Test1();
             //Test3();
+            Test2();
         }
         static void Test1()
         {
