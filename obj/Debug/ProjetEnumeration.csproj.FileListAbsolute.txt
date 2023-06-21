@@ -1,0 +1,6 @@
+C:\Users\Anne Medjine Vincent\Downloads\ProjetEnumeration\bin\Debug\ProjetEnumeration.exe.config
+C:\Users\Anne Medjine Vincent\Downloads\ProjetEnumeration\bin\Debug\ProjetEnumeration.exe
+C:\Users\Anne Medjine Vincent\Downloads\ProjetEnumeration\bin\Debug\ProjetEnumeration.pdb
+C:\Users\Anne Medjine Vincent\Downloads\ProjetEnumeration\obj\Debug\ProjetEnumeration.csproj.CoreCompileInputs.cache
+C:\Users\Anne Medjine Vincent\Downloads\ProjetEnumeration\obj\Debug\ProjetEnumeration.exe
+C:\Users\Anne Medjine Vincent\Downloads\ProjetEnumeration\obj\Debug\ProjetEnumeration.pdb
